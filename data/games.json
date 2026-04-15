@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-04-15",
+    "opponent": "Test",
+    "ourScore": 5,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "68eba250-e6ff-4019-a433-10d9119f2873"
+  }
+]
