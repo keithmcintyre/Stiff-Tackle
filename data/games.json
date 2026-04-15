@@ -1,14 +1,1274 @@
 [
   {
-    "date": "2026-04-15",
-    "opponent": "Test",
+    "date": "2025-01-23",
+    "opponent": "Only Put Ma Tip In",
+    "ourScore": 5,
+    "theirScore": 10,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 3
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 3,
+        "assists": 1
+      }
+    ],
+    "id": "3498ab7e-bbe6-4faf-994b-b1237eaf3c6d"
+  },
+  {
+    "date": "2025-01-30",
+    "opponent": "Boars",
+    "ourScore": 1,
+    "theirScore": 0,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "cd749e14-29d2-4dab-9fda-4bf254abbfb5"
+  },
+  {
+    "date": "2025-02-06",
+    "opponent": "Up the chuff",
+    "ourScore": 2,
+    "theirScore": 5,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "ddff8336-9958-454d-9e4e-001b0c1e5979"
+  },
+  {
+    "date": "2025-02-13",
+    "opponent": "Matt Sandays Barmy Army",
+    "ourScore": 1,
+    "theirScore": 2,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "89c7a70d-2e2e-4e35-989d-403d5090f125"
+  },
+  {
+    "date": "2025-02-20",
+    "opponent": "Straight Red",
+    "ourScore": 1,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "a0d042db-e546-40b8-b4cd-5543340a5efe"
+  },
+  {
+    "date": "2025-02-27",
+    "opponent": "Matt Sandays Barmy Army",
+    "ourScore": 3,
+    "theirScore": 5,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "id": "4641dba0-9e4f-46b7-8135-2e756e412b19"
+  },
+  {
+    "date": "2025-03-06",
+    "opponent": "Straight Red",
+    "ourScore": 4,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "id": "198e2d2c-f86a-42ec-8bcb-edae90cdce56"
+  },
+  {
+    "date": "2025-03-20",
+    "opponent": "Anyone For Tieleman Biscuits",
+    "ourScore": 2,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "443ee3fe-7907-4780-b17d-57860ccbdeb5"
+  },
+  {
+    "date": "2025-03-27",
+    "opponent": "AFC Rajonthesesh",
+    "ourScore": 3,
+    "theirScore": 2,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 2
+      }
+    ],
+    "id": "4f6419b5-f5e8-46a0-a2c7-257f52b6c483"
+  },
+  {
+    "date": "2025-04-03",
+    "opponent": "Sheffield Thursday",
+    "ourScore": 3,
+    "theirScore": 2,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 3,
+        "assists": 0
+      }
+    ],
+    "id": "1192d900-a3c7-4979-a0b9-63e713778b20"
+  },
+  {
+    "date": "2025-04-24",
+    "opponent": "Unathletic Bilbao",
+    "ourScore": 3,
+    "theirScore": 10,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "id": "2cc25905-7268-4206-b22f-3edeef216b39"
+  },
+  {
+    "date": "2025-05-01",
+    "opponent": "2 Goals 1 Cup",
+    "ourScore": 4,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "611727a1-0e53-471c-884a-5149b8229cb1"
+  },
+  {
+    "date": "2025-05-08",
+    "opponent": "Straight Red",
+    "ourScore": 4,
+    "theirScore": 0,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "e142ee77-9a02-4f0b-9b5a-20b2bd453125"
+  },
+  {
+    "date": "2025-05-15",
+    "opponent": "AFC Rajonthesesh",
+    "ourScore": 0,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "82a1d2fc-0850-4a33-9923-b031a6b67642"
+  },
+  {
+    "date": "2025-05-22",
+    "opponent": "Sheffield Thursday",
+    "ourScore": 0,
+    "theirScore": 5,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "93fd2e64-4d26-435c-8355-8d3de86a7289"
+  },
+  {
+    "date": "2025-05-29",
+    "opponent": "Only Put Ma Tip In",
+    "ourScore": 2,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "d75ca336-487a-4d1c-8274-32042e93f94e"
+  },
+  {
+    "date": "2025-06-05",
+    "opponent": "TW80 FC",
+    "ourScore": 3,
+    "theirScore": 4,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "id": "8fc4612f-bbda-498c-8cd1-68d4f1855238"
+  },
+  {
+    "date": "2025-06-12",
+    "opponent": "Unathletic Bilbao",
+    "ourScore": 0,
+    "theirScore": 8,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "b4e18963-569b-445b-8401-b33c24f2bd65"
+  },
+  {
+    "date": "2025-06-19",
+    "opponent": "Sheffield Thursday",
+    "ourScore": 4,
+    "theirScore": 0,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "2aaa893f-a7f3-40ef-ad64-65b7ebec4ba8"
+  },
+  {
+    "date": "2025-06-26",
+    "opponent": "Straight Red",
     "ourScore": 5,
     "theirScore": 3,
     "players": [
       {
         "name": "Keith",
         "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": true,
         "goals": 2,
+        "assists": 1
+      }
+    ],
+    "id": "2b84d344-3a8d-41c8-8bfe-b633d82d7f89"
+  },
+  {
+    "date": "2025-07-03",
+    "opponent": "Hold Tight Azpi NEW",
+    "ourScore": 1,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "6d428253-7975-41e4-99b7-0bb2885988d2"
+  },
+  {
+    "date": "2025-07-10",
+    "opponent": "New Work",
+    "ourScore": 1,
+    "theirScore": 4,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "aba14023-ca61-4c69-bbc4-d9baba9a8228"
+  },
+  {
+    "date": "2025-07-17",
+    "opponent": "Bumfica",
+    "ourScore": 1,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "e514fb61-c00d-451d-b597-63c36e543abe"
+  },
+  {
+    "date": "2025-07-24",
+    "opponent": "Hairy Strikers",
+    "ourScore": 1,
+    "theirScore": 8,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "fbcfc288-1461-4ada-abd5-51ceb15888f1"
+  },
+  {
+    "date": "2025-07-31",
+    "opponent": "Boars",
+    "ourScore": 2,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "69176f54-33fb-423f-85c9-c1341e1e992f"
+  },
+  {
+    "date": "2025-08-07",
+    "opponent": "UPTHECHUFF",
+    "ourScore": 3,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "id": "65076a55-f6f3-4012-b7da-912c62dadf28"
+  },
+  {
+    "date": "2025-08-14",
+    "opponent": "The Original Zidane",
+    "ourScore": 2,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "id": "6552f056-9581-473d-b13b-304f07ede2b8"
+  },
+  {
+    "date": "2025-08-21",
+    "opponent": "Hold Tight Azpi NEW",
+    "ourScore": 3,
+    "theirScore": 9,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "c7cc45d1-f4ac-4179-8031-307a22ca1bdb"
+  },
+  {
+    "date": "2025-08-28",
+    "opponent": "New Work",
+    "ourScore": 1,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
         "assists": 0
       },
       {
@@ -32,7 +1292,232 @@
       {
         "name": "Paul",
         "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "111959ca-f5eb-461e-82a5-671767d5d1b4"
+  },
+  {
+    "date": "2025-09-04",
+    "opponent": "Bumfica",
+    "ourScore": 0,
+    "theirScore": 10,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "b923b72b-ca5b-494d-ae4d-8bf3c31660b6"
+  },
+  {
+    "date": "2025-09-11",
+    "opponent": "Hairy Strikers",
+    "ourScore": 3,
+    "theirScore": 8,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
         "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "a9ea16ec-04fb-4acb-93de-e84acc826697"
+  },
+  {
+    "date": "2025-09-18",
+    "opponent": "Blackwater",
+    "ourScore": 5,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "564140e4-8d39-4aa6-89db-1373649cef0c"
+  },
+  {
+    "date": "2025-09-25",
+    "opponent": "UPTHECHUFF",
+    "ourScore": 0,
+    "theirScore": 0,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "87669dc7-9250-4249-8fc3-8e4a234f633b"
+  },
+  {
+    "date": "2025-10-02",
+    "opponent": "The Original Zidane",
+    "ourScore": 2,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
         "assists": 0
       },
       {
@@ -42,6 +1527,861 @@
         "assists": 0
       }
     ],
-    "id": "68eba250-e6ff-4019-a433-10d9119f2873"
+    "id": "0d4a4d0a-e18e-4991-be3a-91cb79831a51"
+  },
+  {
+    "date": "2025-10-09",
+    "opponent": "UPTHECHUFF",
+    "ourScore": 4,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "35f1703f-a074-42e1-bb54-7090c5eafe1a"
+  },
+  {
+    "date": "2025-10-16",
+    "opponent": "Straight Red",
+    "ourScore": 3,
+    "theirScore": 10,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "id": "408823ef-fcb3-47c8-bfd4-61b65ca38a8c"
+  },
+  {
+    "date": "2025-10-23",
+    "opponent": "Xero Goals",
+    "ourScore": 3,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "15ebad80-e475-44d4-b757-e04d6a6b3b39"
+  },
+  {
+    "date": "2025-10-30",
+    "opponent": "Sheffield Thursday",
+    "ourScore": 1,
+    "theirScore": 4,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "d82f8457-0bfb-4497-b06e-0d6830518b0e"
+  },
+  {
+    "date": "2025-11-06",
+    "opponent": "Only Put Ma Tip In",
+    "ourScore": 3,
+    "theirScore": 9,
+    "players": [
+      {
+        "name": "Keith",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "8a2a087f-a3ae-4531-a300-e482a8e82398"
+  },
+  {
+    "date": "2025-11-13",
+    "opponent": "Inter Your Nan",
+    "ourScore": 5,
+    "theirScore": 7,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 2,
+        "assists": 1
+      }
+    ],
+    "id": "60d6f863-9d5b-4cfd-936f-37753fa89496"
+  },
+  {
+    "date": "2025-11-20",
+    "opponent": "Fake Madrid",
+    "ourScore": 3,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "d65007b3-a324-44eb-8655-ab9557645223"
+  },
+  {
+    "date": "2025-11-27",
+    "opponent": "VACANCY",
+    "ourScore": 13,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 3
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 4,
+        "assists": 3
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 2,
+        "assists": 2
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 3,
+        "assists": 5
+      }
+    ],
+    "id": "50b5bd9f-dbc4-4ef1-a288-3bed198c446e"
+  },
+  {
+    "date": "2025-12-04",
+    "opponent": "Straight Red",
+    "ourScore": 6,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 3,
+        "assists": 2
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "8b3cd57e-a76d-4398-b6c7-890f03ec78a3"
+  },
+  {
+    "date": "2025-12-11",
+    "opponent": "Xero Goals",
+    "ourScore": 4,
+    "theirScore": 4,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "id": "65a33d31-a94b-4afd-bc81-05903ad73d97"
+  },
+  {
+    "date": "2025-12-18",
+    "opponent": "Sheffield Thursday",
+    "ourScore": 3,
+    "theirScore": 2,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "f42716c3-4ceb-48e0-b262-f666979e2845"
+  },
+  {
+    "date": "2026-01-08",
+    "opponent": "Only Put Ma Tip In",
+    "ourScore": 1,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "b248d41f-5095-47d4-845e-038b4d9ef4db"
+  },
+  {
+    "date": "2026-01-15",
+    "opponent": "Inter Your Nan",
+    "ourScore": 0,
+    "theirScore": 9,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "58edc5e7-638d-4035-bc26-6660b0b03983"
+  },
+  {
+    "date": "2026-01-22",
+    "opponent": "Inter Your Nan",
+    "ourScore": 7,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 2
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 3
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "0316382c-f423-40a7-a833-49d78567ea85"
+  },
+  {
+    "date": "2026-01-29",
+    "opponent": "Malc Laws Lads",
+    "ourScore": 5,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 2
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "id": "c16121b2-aa22-479a-9bb0-c5dfed22e955"
+  },
+  {
+    "date": "2026-02-05",
+    "opponent": "Straight Red",
+    "ourScore": 2,
+    "theirScore": 6,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "id": "df485f16-b57e-48fc-84cb-047e00b23d5b"
+  },
+  {
+    "date": "2026-03-12",
+    "opponent": "AFC Fishing Frenzy",
+    "ourScore": 5,
+    "theirScore": 3,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 2
+      }
+    ],
+    "id": "e8f1fd7b-f953-453c-9a76-5acc9fc96ed2"
+  },
+  {
+    "date": "2026-03-19",
+    "opponent": "Malc Laws Lads",
+    "ourScore": 6,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 3,
+        "assists": 1
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Tome",
+        "played": false,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 1,
+        "assists": 4
+      }
+    ],
+    "id": "594e3098-adf5-40f2-ad59-f8778c36bb06"
+  },
+  {
+    "date": "2026-03-26",
+    "opponent": "Straight Red",
+    "ourScore": 4,
+    "theirScore": 1,
+    "players": [
+      {
+        "name": "Keith",
+        "played": true,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "Dave",
+        "played": true,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Cox",
+        "played": true,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "name": "Tome",
+        "played": true,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "name": "Paul",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "JJ",
+        "played": true,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "id": "3a023d76-f1ce-4de6-b017-4d038b12dbd7"
   }
 ]
